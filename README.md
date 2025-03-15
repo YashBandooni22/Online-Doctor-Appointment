@@ -1,1 +1,1 @@
-for clone : git clone [https://github.com/vaishnavigithub899/prescripto.git
+for clone : git clone https://github.com/YashBandooni22/Online-Doctor-Appointment.git
